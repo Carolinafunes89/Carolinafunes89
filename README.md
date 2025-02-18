@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola, soy Carolina 👋!
 
-<!--
-**Carolinafunes89/Carolinafunes89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Licenciada en Diagnóstico por Imágenes 🩻**, **Profesora Universitaria y de Educación Superior 🎓**, y actualmente estoy adentrándome en el fascinante mundo del **Análisis de Datos 📊**.
 
-Here are some ideas to get you started:
+## 🚀 Mi trayectoría
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ **Formación técnica en salud**: Mi carrera comenzó en el área de la salud, donde adquirí una sólida base técnica en diagnóstico por imágenes. Sin embargo, pronto descubrí mi pasión por el **análisis de datos** y decidí formarme en este campo para poder transformar datos en decisiones más inteligentes.
+
+✔ **Docente universitaria**: Mi experiencia como profesora me ha permitido desarrollar habilidades clave de **comunicación**, **enseñanza** y **adaptación** a diferentes perfiles de estudiantes, lo que me ayuda a entender mejor las necesidades de cada grupo y a ser más efectiva en mi trabajo.
+
+✔ **Análisis de datos**: Al dar el salto hacia el análisis de datos, me he enfocado en herramientas y técnicas modernas que me permiten transformar grandes volúmenes de datos en **insights valiosos** para la toma de decisiones empresariales.
+
+✔ **Experiencia en la gestión de datos**: Actualmente, trabajo en el área de **Gestión de Mora** de una empresa de salud, donde gestiono procesos relacionados con la cobranza, usando datos para mejorar la eficiencia y toma de decisiones.
+
+## 🌱 En constante aprendizaje
+
+✔ Estoy ampliando mis conocimientos con estudios en **Ciencia de Datos** 📚 para profundizar en el análisis predictivo y las técnicas de Machine Learning, y potenciar mis habilidades en este campo dinámico.
+
+✔ Busco nuevas **oportunidades profesionales** como **Analista de Datos 📈**, donde pueda aplicar mi combinación de habilidades técnicas, experiencia en salud y gestión de datos para aportar valor a las organizaciones 🚀.
+
+---
+
+¡Estoy lista para enfrentar nuevos desafíos y seguir creciendo en el fascinante mundo de la **analítica de datos**!  

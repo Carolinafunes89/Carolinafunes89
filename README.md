@@ -1,6 +1,6 @@
 # ¡Hola, soy Carolina 👋!
 
-Soy **Análista de Datos 📊, a su vez soy **Licenciada en Diagnóstico por Imágenes 🩻** y  **Profesora Universitaria y de Educación Superior 🎓**
+Soy **Análista de Datos** 📊, a su vez soy **Licenciada en Diagnóstico por Imágenes 🩻** y  **Profesora Universitaria y de Educación Superior 🎓**
 
 ## 🚀 Mi trayectoría
 

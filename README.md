@@ -1,12 +1,12 @@
 # ¡Hola, soy Carolina 👋!
 
-Soy **Licenciada en Diagnóstico por Imágenes 🩻**, **Profesora Universitaria y de Educación Superior 🎓**, y actualmente estoy adentrándome en el fascinante mundo del **Análisis de Datos 📊**.
+Soy **Análista de Datos 📊, a su vez soy **Licenciada en Diagnóstico por Imágenes 🩻** y  **Profesora Universitaria y de Educación Superior 🎓**
 
 ## 🚀 Mi trayectoría
 
-✔ **Formación técnica en salud**: Mi carrera comenzó en el área de la salud, donde adquirí una sólida base técnica en diagnóstico por imágenes. Sin embargo, pronto descubrí mi pasión por el **análisis de datos** y decidí formarme en este campo para poder transformar datos en decisiones más inteligentes.
+✔ **Licenciatura en Bioimágenes**: Mi carrera comenzó en el área de la salud, donde adquirí una sólida base técnica en diagnóstico por imágenes. Sin embargo, pronto descubrí mi pasión por el **análisis de datos** y decidí formarme en este campo para poder transformar datos en decisiones más inteligentes.
 
-✔ **Docente universitaria**: Mi experiencia como profesora me ha permitido desarrollar habilidades clave de **comunicación**, **enseñanza** y **adaptación** a diferentes perfiles de estudiantes, lo que me ayuda a entender mejor las necesidades de cada grupo y a ser más efectiva en mi trabajo.
+✔ **Docente universitaria y de la Educación Secundaria**: Mi experiencia como profesora me ha permitido desarrollar habilidades clave de **comunicación**, **enseñanza** y **adaptación** a diferentes perfiles de estudiantes, lo que me ayuda a entender mejor las necesidades de cada grupo y a ser más efectiva en mi trabajo.
 
 ✔ **Análisis de datos**: Al dar el salto hacia el análisis de datos, me he enfocado en herramientas y técnicas modernas que me permiten transformar grandes volúmenes de datos en **insights valiosos** para la toma de decisiones empresariales.
 
